@@ -101,8 +101,3 @@ def plot(dfs, name="test.html"):
 
     chart.save(name)
     return chart
-
-
-#To do:
-# test_run in both directions for each pair
-# 
